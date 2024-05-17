@@ -15,11 +15,11 @@ Esta aplicación web se creo utilizando Visual Studio Code en español, por lo c
 1. Descarga / git clone
 2. Abrimos Visual Studio Code
 3. Creamos un archivo llamado .env por fuera de las carpetas eh ingresamos OPENAI_API_KEY = "Aquí pegas tu api key"
-4. Iniciamos la consola con el comando Crt + ñ
+4. Iniciamos la consola con el comando Ctrl + ñ
 5. Descargamos los requerimientos ingresando en la consola: pip install -r requirements.txt
 6. Iniciamos el entorno ingresando en la consola: .\venv\Scripts\activate
 7. Corremos la el comando ingresando en la consola: python .\app\__init__.py
-8. Al correr te proporcionara una dirección local parecida a esta http://127.0.0.1:5000, deberas acceder a esta mediante tu navegador (preferiblemente Google Chrom)
+8. Al correr te proporcionara una dirección local similar a esta http://127.0.0.1:5000, deberas acceder a esta mediante tu navegador (preferiblemente Google Chrom)
 
 # Posibles errores
 * Si no en el paso 4 no se crea la carpeta venv, ingresa en la consola: python -m venv .venv
